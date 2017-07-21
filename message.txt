@@ -1,4 +1,4 @@
 # KodiMessages
 1 
 ||| 
-Type your message here
+Hello Testing Out This New Feature Please Ignore :)
