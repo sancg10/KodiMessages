@@ -1,4 +1,4 @@
 # KodiMessages
-1 
+2 
 ||| 
 Hello Testing Out This New Feature Please Ignore :)
