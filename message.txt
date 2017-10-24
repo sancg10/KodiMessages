@@ -1,15 +1,11 @@
 # KodiMessages
-9 
+10 
 ||| 
 
-Welcome To Mimic Reloaded!
+Welcome!!
 
-First Time Kodi Users: Please visit https://intercom.help/project-cordless lots of important information to help you get going!
+Updated Version of this build will be released in the next couple of days! 
 
-Vader Streams: To Sign Up For Vader Streams Visit www.projectcordless.com
+As well as a video on updating to Kodi 17.5
 
-We Respond to Emails Chats & Any Type of Correspondence Monday-Friday 9-6 EST 
-
-There are some circumstances where we do reply if we are able to during non business hours. 
-
-Thanks & Stay Tuned For More Updates!
+Stay Tuned For Upcoming Holiday Bundles & Sales! Including Tablets with Kodi + More
